@@ -8,5 +8,6 @@ def conversion(sec):
     print("Converted sec value in minutes:", min)
 
 
-sec = 50000
+sec = 678000
 conversion(sec)
+
